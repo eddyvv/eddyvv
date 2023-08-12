@@ -2,4 +2,10 @@
 
 * 一只菜鸟程序猿😶
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=eddyvv&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddyvv/eddyvv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddyvv/eddyvv/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eddyvv/eddyvv/output/github-contribution-grid-snake.svg">
+</picture>
